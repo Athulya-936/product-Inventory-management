@@ -1,0 +1,6 @@
+com\inventory\dao\ProductDAO.class
+com\inventory\model\Product.class
+com\inventory\ui\InventoryManagementFrame.class
+com\inventory\TestConnection.class
+com\inventory\config\DatabaseConfig.class
+com\inventory\ui\InventoryManagementFrame$1.class
